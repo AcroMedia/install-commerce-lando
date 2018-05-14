@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "d3edd8589a1b2ce2a3400aec660eef0f",
@@ -3096,7 +3096,7 @@
                 "source": "https://github.com/drupalcommerce/commerce_base/tree/8.x-1.x",
                 "issues": "https://github.com/drupalcommerce/commerce_base/issues"
             },
-            "time": "2018-03-07 10:52:32"
+            "time": "2018-03-07T10:52:32+00:00"
         },
         {
             "name": "easyrdf/easyrdf",
